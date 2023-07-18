@@ -1,3 +1,4 @@
 Let's start repeating of git
 Checking log's updating
 Add line with 'echo' command
+Created new file to repository
